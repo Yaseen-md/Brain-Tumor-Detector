@@ -1,6 +1,12 @@
 # 🧠 Brain Tumor Detection with MRI Scans
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yaseen-md-brain-tumor-detector-app-zhlhz5.streamlit.app/)
+
 A deep learning-powered web app built with **PyTorch** and **Streamlit** to detect brain tumor types from MRI scans. The model predicts one of four classes and provides visual explanations using **Grad-CAM** heatmaps.
+
+## 🌐 Live Demo
+
+**Try it now:** [https://yaseen-md-brain-tumor-detector-app-zhlhz5.streamlit.app/](https://yaseen-md-brain-tumor-detector-app-zhlhz5.streamlit.app/)
 
 ---
 
